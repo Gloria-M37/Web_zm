@@ -1,0 +1,136 @@
+body{
+    font-family: Simsun,Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(255, 255, 255);
+    font-size: small;
+    
+}
+#d_main{
+    width: 900px; 
+    height: 540px;
+    margin-left: auto;
+    margin-right: auto; 
+    border: rgb(231, 231, 231) solid 3px;
+}
+nav{ 
+    width: 210px;
+    height: 540px;
+    background-color: rgb(255, 169, 174);
+  }
+
+  nav ul{
+    width:210px;
+    margin-top: 0px;
+    text-align: center;
+    margin-left: -40px;
+    padding-top: 10px;
+  }
+  nav ul li{
+    
+    list-style: none;
+    font-size: 1.5em;
+    font-weight: bolder;
+    width: 210px;
+    height: 45px;
+    padding-left:0px ;
+    color:white;
+    display:inline;
+    float:left;
+    text-align: center;
+  }
+
+  
+
+  nav ul li a{
+    color: inherit;
+    text-decoration: none;
+    width: 140px;
+    height: 45px;
+    display: inline-block;
+    padding-top: 10px;
+  }
+
+  nav ul li a:hover{
+    color:inherit;
+    background-color: rgb(226, 141, 155);
+    width: 210px;
+    height: 35px;
+  }
+  .diff{
+    background-color: rgb(226, 141, 155);
+    width: 210px;
+    height: 45px;
+}
+.dear{
+    width: 210px;
+    height: 140px;
+}
+.r-cont{
+    width: 690px;
+    height: 540px;
+    float: right;
+    background-color: rgb(202, 231, 245);
+}
+.placement1{
+    width: 370px;
+    height: 260px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+.unique{
+    width:320px;
+    height: 520px;
+    float: right;
+}
+.unique1{
+  width:380px;
+  height: 520px;
+  float: right;
+}
+.unique2{
+  width:310px;
+  height: 520px;
+  float: left;
+  margin-left: 5px;
+}
+.placement{
+  width: 340px;
+  height: 250px;
+  margin-left: 12px;
+  margin-top: 15px;
+  float: top;
+}
+.placement1{
+    width: 360px;
+    height: 262px;
+    margin-left: 5px;
+    margin-top: 5px;
+    float: top;
+}
+.placement2{
+    width: 220px;
+    height: 140px;
+    margin-left: 45px;
+    margin-top: 5px;
+    float: top;
+}
+.placement3{
+    width: 300px;
+    height: 230px;
+    margin-left: 5px;
+    margin-top: 5px;
+    float: top;
+}
+.placement4{
+    width: 300px;
+    height: 530px;
+    margin-left: 5px;
+    margin-top: 5px;
+    float: top;
+}
+.placement5{
+  width: 370px;
+  height: 210px;
+  margin-left: 5px;
+  margin-top: 5px;
+  float: top;
+}
